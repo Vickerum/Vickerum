@@ -1,4 +1,4 @@
-👋 Hi, I’m Vikram
+👋 Hi, I’m Vikram Yadav
 
 👀 I’m interested in data analysis, machine learning, and software development.
 
