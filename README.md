@@ -1,18 +1,22 @@
-👋 Hi, I’m Vikram Yadav
+# Hi, I'm Vikram Yadav 👋
 
-👀 I’m interested in data analysis, machine learning, and software development.
+**Data Analyst | Power BI | SQL | DAX | ETL | Microsoft Fabric**
 
-🌱 I’m currently learning advanced machine learning techniques and exploring new technologies.
+I build business-focused analytics solutions across **BI, data transformation and enterprise reporting**.
 
-💞️ I’m looking to collaborate on projects related to data analysis with tools like Python, SQL, Power BI and machine learning.
+### What I Work With
+- **BI:** Power BI, DAX, Power Query, Semantic Modelling
+- **Data:** SQL Server, MySQL, ETL, Data Validation
+- **Enterprise Data:** Infor LN ERP / Data Lake, Pentaho PDI
+- **Programming:** Python, Pandas, NumPy
+- **Modern Data:** Microsoft Fabric — OneLake, Lakehouse, Data Pipelines, Dataflows Gen2, Semantic Models
 
-📫 How to reach me: Feel free to reach out to me via 
-1] email at vikramyadav30april@gmail.com 
-or 
-2] connect with me on LinkedIn at https://www.linkedin.com/in/vikram-yadav-223145214/.
-Let's connect and explore opportunities to work together!
+### Experience
+3+ years building and supporting enterprise BI reporting across manufacturing operations, including Sales, Production, Warehouse, Logistics, Procurement and Finance.
 
-<!---
-Vickerum/Vickerum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Portfolio Focus
+Business problems → data analysis → actionable insights.
+
+Current focus: **Microsoft Fabric, modern data engineering and AI-assisted analytics.**
+
+[LinkedIn](https://www.linkedin.com/in/vikram-yadav-223145214/)
